@@ -1,9 +1,7 @@
 # cse310
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description of your software}
+This is a basic Hello World program. I created this to demonstrate the use of Visual Studio Code, python, and GitHub together.
 
 {Describe your purpose for creating this software.}
 
@@ -13,12 +11,14 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
-
+* Visual Studio Code
+* Python 3.9
+* Git / GutHub
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [BYUI Video](https://video.byui.edu/media/t/1_zyyx43ke)
+* [Using Version Control in VS Code—Microsoft](https://code.visualstudio.com/docs/editor/versioncontrol)
+* [Working with GitHub in VS Code—Microsoft](https://code.visualstudio.com/docs/editor/github)
+* [ Markdown Language Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+
