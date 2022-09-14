@@ -3,11 +3,7 @@
 
 This is a basic Hello World program. I created this to demonstrate the use of Visual Studio Code, python, and GitHub together.
 
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+Check out my demo and explanation of the software: [Software Demo Video](https://youtu.be/lUenc50_RY8)
 
 # Development Environment
 
