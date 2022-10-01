@@ -1,6 +1,7 @@
 // Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
+import {getFirestore, doc, setDoc, addDoc} from 'firebase/firestore';
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
 
@@ -18,5 +19,26 @@ const firebaseConfig = {
 };
 
 // Initialize Firebase
+function writeMovies(){
+    const docData ={
+        Title:'',
+        Rating:'',
+        Length:'',
+    };
+    setDoc(Movies, docData, {merge: true})
+    .then(()=>{
+        //this wont get called if you're offlline
+        console.log('This value has been written to the database');
+
+    })
+    .catch((error)=> {
+        console.log(`I got an error! ${error}`);
+    });
+}
+const moviesCollection = collection(firestore, 'Movies');
+async function addANewDocument(){
+    const newDoc = await addDoc (moviesCollection,)
+}
+const firestore = getFirestore();
 const app = initializeApp(firebaseConfig);
 const analytics = getAnalytics(app);
