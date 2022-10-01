@@ -6,7 +6,7 @@ This Software is ment to colaborate with google Firebase in order to catolog mov
 
     My purpose in writing this program is to keep an updated database of my family media information.
 
-
+    * As of now only the insert.py file works. 
 
 [Software Demo Video](http://youtube.link.goes.here)
 
@@ -33,5 +33,5 @@ The Datebase I am using keeps information of movies in a information dictionary.
 
 {Make a list of things that you need to fix, improve, and add in the future.}
 * Delete feature still in the works as firebase only currently supports deleting from the firebase console, and through the cmd terminal.
-* Item 2
-* Item 3
+* Update function still in the works.
+* Main.py is to run all files and manage update, delete, and insert.

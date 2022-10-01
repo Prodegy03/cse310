@@ -7,9 +7,11 @@ import sys
 class read():
     users_ref = db.collection(u'Movies')
     docs = users_ref.stream()
+    media = []
 
     for doc in docs:
-        print(f'{doc.id} => {doc.to_dict()}')
+        media = [f'{doc.id} => {doc.to_dict()}']
+    print(media)
 
     
 
