@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "christensen-plex-media",
+  "private_key_id": "62312e31d1533ed7dc25f428194456a2e7a9b8da",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDpBQGzWIdhw3Tk\nEOEkQjcprCjwk5N+Es30z/qFRI9RsBUpctcXwEGFlg3QWlvh8ZehhBu7lj4K0izH\nmfe4L/jn3DFBXCgPjGDDhruAIxzAtZXiKFwyjXXxq4SQWJ6OC3pIraH73/Wnu4h5\n+UP2oYHYytgbIKHpQ1jnhuLChKsLRVe86yVwP2gUtqYylhrj28meLxywpXjbA3b0\n1WEvDR0NqZQflXJXO7GZFVio8MdMX/UuBKxqWs7Qz/DtzbBbf8HxtiEYtXnCR4vV\nMULtGTRGBritY73lEyqS0yL5n5/79o7W5P/dH7+QW3TutArgqKLu000uSg5FiZ4t\nnkSVRT9bAgMBAAECggEAUoNyWbbEoerbrpMHlpZYAEq1aJNpjCBOjB1FogFoGs4W\ngEnpPsDWst4y4A/PL5AkWI52X5PRPnW0Y63y2WcrZbdEPdfLW84iybohFTvZx6fF\nfoM6OrB7DmvlElQ/OR95WtkZXh6tV4sBxedtmJ0SZNlXcyu4CejOR5YtICJoiyGC\n98+Gts0KRhagGPH9G3zuagU2kljtdmxiT+WOujpvhjUvVr7gH9eVFTcz6GiYynG+\nr0Djq5w2lwk/G1BLRQAarUlBK5z4j9FCxgUraDInfr6NTEqIpBIA0znwWqjoppN3\nl5SYkElW34Yb15s48DQiffmRnkqtu2RgZmUVEAnsCQKBgQD2SFu8lTwq5wzMLf0H\nU6P4+lPF1w3iJfgrXt3zEecPMqOFA3o5McGJrYFxur4SSh51TGf7XbwQchhZ1r0i\ny5FTS8jbqHYJen0fQj/rMFl5ga4Ti6A5ip+XaplF9NZRhpo75HYmKUimi/Bu1haj\nJR8qwOdIE9kR7UQc8im17dOq/wKBgQDyNq5VzRVAhPcUJVZke45mTN6FTpgWUqA4\nAJ3+YbSZ91gGhz/kaH6iqoYcnMKxzFzdzPHDw37wSICQsmalC1gD1ET8ZxRQ3bTA\nngTGYDD9ZXHZy92x1tIUc2UZXRDXEBq4Silli7W/sEAkRP4ThBrJRKgPvSXJPJfX\n+QU2+iT3pQKBgQCElzIkVifdZSTjrAKkdig6O/Lr+Tq1PQHdv6Y4XbQK35VfYB7m\nOd5bU/jzlLkNua+qMOduUemU5QgtHcoXuIbV1GAfuhNKSRKhyJYG9bHGE8X3Kd2p\n/PKsnyxDmGvl2lSg1/+vzdwaJg7cbRAk5zBfYRljGaRs3VMlTk6cbpzdWwKBgH32\nFd+lEaJGA8BEUpNa9gkZfLdS0iD5wzychY2e/i77xJlQiNedyA2MJMaId2/DWaA3\nTpuB9We8LLATNvIp3hHPuDiS2qvbQH7TLqSDrbZ5pSWgsaAkmYftIux3y6QsSdkB\nKFoYt+ICJLk37/HyR4PX4pacxSPMESNN63pVyBfJAoGBAINDLrs5uFMigZNJ6wH6\n40qqC+dPn2FpvuqjtE70Rnr0/eXK7N/1mBBZISJXDVlngqrHQpBDUWqkSdMqoyz8\nh6Wlvq1bTNj6La3Fj/pN9m3zwHEuJ5R+iyxuT/J1zElW29J+cY9scjCF32ijI0Hl\nxwiuSpYf1LE13LvcoX3hqAt5\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-lqjih@christensen-plex-media.iam.gserviceaccount.com",
+  "client_id": "107264919268838599156",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-lqjih%40christensen-plex-media.iam.gserviceaccount.com"
+}

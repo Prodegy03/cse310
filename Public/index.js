@@ -21,7 +21,7 @@ const firebaseConfig = {
 // Initialize Firebase
 function writeMovies(){
     const docData ={
-        Title:'',
+        Title:'The Grey',
         Rating:'',
         Length:'',
     };
