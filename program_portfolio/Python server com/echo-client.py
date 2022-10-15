@@ -5,6 +5,7 @@ import sys
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 # Connect the socket to the port where the server is listening
+# ghange this address to the address of your server
 server_address = ('localhost', 10000)
 print(sys.stderr, 'connecting to %s port %s' % server_address)
 sock.connect(server_address)
@@ -12,6 +13,7 @@ sock.connect(server_address)
 try:
     
     # Send data
+    #tailor this message to whatever you want to send to the server.
     message = 'This is the message.  It will be repeated.'
     print(sys.stderr, 'sending "%s"' % message)
     sock.sendall(message)
